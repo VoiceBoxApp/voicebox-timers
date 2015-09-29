@@ -1,0 +1,23 @@
+{
+  "name": "voicebox-timers",
+  "version": "0.1.0",
+  "description": "A responder for setting timers with VoiceBox",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomascullen/voicebox-timers"
+  },
+  "keywords": [
+    "voicebox",
+    "timer"
+  ],
+  "author": "Thomas Cullen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomascullen/voicebox-timers/issues"
+  },
+  "dependencies": {
+    "timer.js": "^1.0.3"
+  },
+  "homepage": "https://github.com/thomascullen/voicebox-timers"
+}
